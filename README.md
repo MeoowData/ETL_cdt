@@ -55,6 +55,6 @@ Os dados gerados tratam de informações especificas de usuários, cartões e da
 
 ## Licença
 
-Os dados utilizados para construção do projeto foram reditados dos [Kaggle](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions/discussion/277100), publicados por Erik Altman, Apoorva Nitsure IBM e Youssef Mroueh.
+Os dados utilizados para construção do projeto foram retirados do [Kaggle](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions/discussion/277100), publicados por Erik Altman, Apoorva Nitsure IBM e Youssef Mroueh.
 
 Os dados estão disponibilizados sob a licensa Apache 2.0, e o arquivo LICENSE pode acessado [clicando aqui](./LICENSE), conforme descrito pelos termos da licença.
