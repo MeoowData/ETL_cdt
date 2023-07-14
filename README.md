@@ -46,7 +46,7 @@ Para o pacote mariadb pode ser necessário que se possua instalado o `libmariadb
 
 ## Descrição dos Arquivos <a name="descrição"></a>
 
-Os dados que serão utilizados para carga ETL podem ser acessados [clicando aqui](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions/discussion/277100), e foram gerados a partir de uma simulação realizada pela IBM de transações de cartões. A vantagem do uso desses dados para o objetivo especificado é a possibilidade de diminuição de criação de tabelas intermediárias, para otimizar o espaço de armazenamento. Além há a necessidade de tratamento básico em algumas variáveis, que é justamente um trabalho necessário no processo de ETL para disponibilização do dado para consumo.Descrição dos Arquivos
+Os dados que serão utilizados para carga ETL podem ser acessados [clicando aqui](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions/discussion/277100), e foram gerados a partir de uma simulação realizada pela IBM de transações de cartões. A vantagem do uso desses dados para o objetivo especificado é a possibilidade de diminuição de criação de tabelas intermediárias, para otimizar o espaço de armazenamento. Além há a necessidade de tratamento básico em algumas variáveis, que é justamente um trabalho necessário no processo de ETL para disponibilização do dado para consumo.
 
 Os arquivos são uma simulação de transações de cartão de crédito e possuem mais de 24 milhões de linhas de dados sintéticos. Ao todo há disponível 4 arquivos csv, porém, serão utilizados apenas 3 arquivos, pois um deles é a geração de dados de apenas 1 usuário.
 
